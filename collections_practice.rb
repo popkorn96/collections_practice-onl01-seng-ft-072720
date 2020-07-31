@@ -23,11 +23,9 @@ array [0], array [1], array[2] = array [0], array[2], array[1]
  end
  
  def kesha_maker(array)
-   counter = 0
    new_array = []
    array.each do |word| 
      new_array.push()
-     counter += 1
  end
  new_array
  end
