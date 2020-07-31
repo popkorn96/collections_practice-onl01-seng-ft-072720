@@ -39,6 +39,12 @@ end
 def sum_array(array)
   counter = 0 
   while array > array.length
-  
+end
    
-   
+ def add_s(array)
+   new_array = []
+   array.each do |word| 
+     new_array.push(word = + "s")
+     new_array << word
+ end
+end
