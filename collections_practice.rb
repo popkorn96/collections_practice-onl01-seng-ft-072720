@@ -37,7 +37,7 @@ end
 end
 
 def sum_array(array)
-  puts "273"
+
 end
    
  def add_s(array)
