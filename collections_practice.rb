@@ -26,7 +26,7 @@ array [0], array [1], array[2] = array [0], array[2], array[1]
    counter = 0
    new_array = []
    array.each do |word| 
-     new_array = "#{word[2]}$"
+     new_array.push()
      counter += 1
  end
  new_array
