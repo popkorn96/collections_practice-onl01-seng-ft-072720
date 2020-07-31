@@ -43,6 +43,6 @@ end
    new_array = []
    array.each do |word| 
      new_array.push(word += "s")
-     new_array << word+"s"
+     new_array << word +"s"
  end
 end
