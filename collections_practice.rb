@@ -28,10 +28,10 @@ array [0], array [1], array[2] = array [0], array[2], array[1]
      new_array.push(word[2] = "$")
      new_array << word
  end
- end
-     
+end
+
 def find_a(array)
-  array.start_with? do |word|
+  array do |word|
     
 end
 end
