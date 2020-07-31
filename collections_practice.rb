@@ -37,8 +37,6 @@ end
 end
 
 def sum_array(array)
-  counter = 0 
-  while array > array.length
 end
    
  def add_s(array)
