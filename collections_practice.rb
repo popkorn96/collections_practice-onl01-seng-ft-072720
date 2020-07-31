@@ -42,7 +42,7 @@ end
    
  def add_s(array)
    new_array = []
-   array.each do |word| 
+   array.each_with_index.collect do |word,index| 
      new_array.push(word[-1] + "s")
      new_array << word
  end
