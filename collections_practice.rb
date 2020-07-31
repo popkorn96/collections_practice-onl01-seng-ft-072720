@@ -35,7 +35,10 @@ def find_a(array)
     word.start_with? ("a")
 end
 end
-   
-   
+
+def sum_array(array)
+  counter = 0 
+  while array > array.length
+  
    
    
