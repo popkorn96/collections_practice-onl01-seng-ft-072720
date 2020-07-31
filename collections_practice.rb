@@ -30,6 +30,8 @@ array [0], array [1], array[2] = array [0], array[2], array[1]
  end
  end
      
+def find_a(array)
+  array.start_with? 
    
    
    
