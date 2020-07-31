@@ -27,7 +27,7 @@ array [0], array [1], array[2] = array [0], array[2], array[1]
    array.each do |word| 
      new_array.push(word = word[2"$"])
  end
- new_array
+ new_array word
  end
      
    
