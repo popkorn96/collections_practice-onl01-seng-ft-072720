@@ -31,7 +31,9 @@ array [0], array [1], array[2] = array [0], array[2], array[1]
  end
      
 def find_a(array)
-  array.start_with? 
+  array.start_with? do |a|
+end
+end
    
    
    
